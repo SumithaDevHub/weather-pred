@@ -7,7 +7,7 @@ import { Msg } from './components/Msg';
 const App = () => {
   const [weatherData, setWeatherData] = useState([]);
   const cities = ['Bengaluru', 'Chennai', 'Salem', 'Delhi', 'Pune']; // List of cities
-  const apiKey = '1014455b32664fd0379bc7252a5a627e'; 
+  const apiKey = 'YOUR_API_KEY_HERE'; 
 
   useEffect(() => {
     const fetchWeatherData = async () => {
