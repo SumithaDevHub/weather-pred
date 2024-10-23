@@ -17,9 +17,4 @@ A simple weather application that fetches live weather data for multiple cities 
 - **API**: OpenWeather API
 - **Package Manager**: npm
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
